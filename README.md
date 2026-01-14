@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Muni Bajracharya</h1>
 <h3 align="center">Backend & Mobile Developer (Node.js, Express, Flutter, Dart)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khon-shu&label=Profile%20views&color=0e75b6&style=flat" alt="khon-shu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khon-shu" alt="khon-shu" /></a> </p>
 
 - 🔭 I’m currently studying on **National College Of Computer Studies(BCA**
 
