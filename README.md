@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently studying on **National College Of Computer Studies(BCA**
+- 🔭 I’m currently studying on **National College Of Computer Studies(BCA)**
 
 - 🌱 I’m currently learning **Node.js, Express, MongoDB ,Firebase ,Flutter, REST APIs**
 
