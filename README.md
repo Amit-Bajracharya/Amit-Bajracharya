@@ -11,15 +11,13 @@
 
 - 🤝 I’m looking for help with **Open-source projects & real-world applications**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
-
-- 📝 I regularly write articles on [comming soon](comming soon)
+- 👨‍💻 All of my projects are available Down
 
 - 💬 Ask me about **JavaScript, Node.js, Express, Flutter, HTML, CSS**
 
 - 📫 How to reach me **amitbajracharya4444@gmail.com**
 
-- 📄 Know about my experiences [coming soon](coming soon)
+- 📄 View My Portfolio at https://amit-bajracharya.github.io/Amit-Portfolio/
 
 - ⚡ Fun fact **I turn bugs into features… sometimes. 😄**
 
