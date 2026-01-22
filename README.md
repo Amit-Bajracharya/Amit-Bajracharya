@@ -13,7 +13,7 @@ Coding is not just my work—it’s my **passion and my way to build the future*
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/amit-bajracharya)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge)](https://np.linkedin.com/in/amit-bajracharya-52b5b037b)
 [![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge)](https://github.com/amit-bajracharya)
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge)](https://discordapp.com/users/570292509218177034)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge)](https://www.instagram.com/amitbajracharya_)
