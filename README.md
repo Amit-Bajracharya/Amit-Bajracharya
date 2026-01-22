@@ -1,6 +1,6 @@
 # Amit Muni Bajracharya
 
-**Backend & Mobile Developer | Node.js | Flutter | MongoDB | MySQL**
+**Backend & Mobile Developer | Node.js | Flutter | MongoDB | MySQL | Firebase**
 
 Hi there 👋, I'm a college student with a passion for **coding and building applications**.  
 I love exploring **backend development**, **mobile app development**, and databases.  
