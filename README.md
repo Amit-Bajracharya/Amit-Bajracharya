@@ -9,6 +9,9 @@ Currently, I’m learning **advanced Node.js, Flutter, and full-stack developmen
 I enjoy solving problems, experimenting with new technologies, and turning ideas into real applications.  
 Coding is not just my work—it’s my **passion and my way to build the future**.
 
+Checkout my portfolio.
+Portfolio link : https://amit-bajracharya.github.io/Amit-Portfolio/
+
 ---
 
 ## 🌐 Connect with Me
