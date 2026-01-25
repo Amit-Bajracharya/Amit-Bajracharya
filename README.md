@@ -10,7 +10,7 @@ I enjoy solving problems, experimenting with new technologies, and turning ideas
 Coding is not just my work—it’s my **passion and my way to build the future**.
 
 Checkout my portfolio.
-Portfolio link : https://amit-bajracharya.github.io/Amit-Portfolio/
+**Portfolio link :** https://amit-bajracharya.github.io/Amit-Portfolio/
 
 ---
 
