@@ -47,11 +47,15 @@ Checkout my portfolio: **[Portfolio link](https://amit-bajracharya.github.io/Ami
 
 ---
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amit-bajracharya&show_icons=true&count_private=true&include_all_commits=true&theme=darcula&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-bajracharya&layout=compact&hide_border=true&theme=darcula&langs_count=6" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=amit-bajracharya&theme=darcula&hide_border=true&background=00000000" />
-</p>
+## 📊 GitHub Stats
+
+<!-- GitHub Stats Card -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amit-bajracharya&show_icons=true&count_private=true&include_all_commits=true&theme=darcula&hide_border=true" />
+
+<!-- Top Languages Card -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-bajracharya&layout=compact&hide_border=true&theme=darcula&langs_count=6" />
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=amit-bajracharya&theme=darcula&hide_border=true&background=00000000" />
 
 
