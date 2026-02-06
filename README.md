@@ -47,24 +47,11 @@ Checkout my portfolio: **[Portfolio link](https://amit-bajracharya.github.io/Ami
 
 ---
 
-## 📊 Skills Dashboard
-
-| Skill | Level |
-|-------|-------|
-| Node.js | ![90%](https://progress-bar.dev/90/?title=Node.js&color=00FF00) |
-| NestJS | ![80%](https://progress-bar.dev/80/?title=NestJS&color=1E90FF) |
-| Flutter | ![70%](https://progress-bar.dev/70/?title=Flutter&color=FF8C00) |
-| TypeScript | ![70%](https://progress-bar.dev/70/?title=TypeScript&color=007ACC) |
-| MongoDB | ![85%](https://progress-bar.dev/85/?title=MongoDB&color=4DB33D) |
-| PostgreSQL | ![80%](https://progress-bar.dev/80/?title=PostgreSQL&color=336791) |
-| MySQL | ![85%](https://progress-bar.dev/85/?title=MySQL&color=00758F) |
-| Docker | ![80%](https://progress-bar.dev/80/?title=Docker&color=2496ED) |
-| Express.js | ![85%](https://progress-bar.dev/85/?title=Express.js&color=000000) |
-| JavaScript | ![90%](https://progress-bar.dev/90/?title=JavaScript&color=F7DF1E) |
-| HTML & CSS | ![90%](https://progress-bar.dev/90/?title=HTML+&+CSS&color=E34F26) |
-| Git | ![90%](https://progress-bar.dev/90/?title=Git&color=F1502F) |
-| Linux | ![80%](https://progress-bar.dev/80/?title=Linux&color=FCC624) |
-| PHP | ![75%](https://progress-bar.dev/75/?title=PHP&color=8892BE) |
-| Python | ![65%](https://progress-bar.dev/65/?title=Python&color=3776AB) |
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amit-bajracharya&show_icons=true&count_private=true&include_all_commits=true&theme=darcula&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-bajracharya&layout=compact&hide_border=true&theme=darcula&langs_count=6" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=amit-bajracharya&theme=darcula&hide_border=true&background=00000000" />
+</p>
 
 
