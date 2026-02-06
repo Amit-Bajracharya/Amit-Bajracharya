@@ -26,7 +26,7 @@ Checkout my portfolio: **[Portfolio link](https://amit-bajracharya.github.io/Ami
 
 <img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
 <img align="left" alt="ExpressJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> 
-<img align="left" alt="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<img align="left" alt="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Flutter" width="30px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> 
 <img align="left" alt="Dart" width="30px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /> 
