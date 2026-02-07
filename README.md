@@ -54,18 +54,15 @@ Checkout my portfolio: **[Portfolio link](https://amit-bajracharya.github.io/Ami
 -->
 
 <p align="center">
- <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Amit-Bajracharya&show_icons=true&count_private=true&include_all_commits=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Bajracharya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex">
   
   <img src="https://streak-stats.demolab.com?user=Amit-Bajracharya&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
- 
-</p>
-
   <br>
 </p>
+
 
 <!--
 |<img height=200 align="center" src="https://github-readme-stats-s7hi.vercel.app/api?username=Amit-Bajracharya&show_icons=true&theme=gruvbox&card_width=320&count_private=true&include_all_commits=true" />|<img height=200 align="center" src="https://github-readme-stats-s7hi.vercel.app/api/top-langs/?username=Amit-Bajracharya&theme=gruvbox&layout=donut&card_width=320" />|
