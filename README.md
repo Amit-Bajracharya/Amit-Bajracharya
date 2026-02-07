@@ -62,6 +62,9 @@ Checkout my portfolio: **[Portfolio link](https://amit-bajracharya.github.io/Ami
   <br>
   <br>
 </p>
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Bajracharya&layout=compact&theme=darcula&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,html,css">
+</p>
 
 
 <!--
