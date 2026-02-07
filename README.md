@@ -43,6 +43,6 @@ Checkout my portfolio: **[Portfolio link](https://amit-bajracharya.github.io/Ami
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <br clear="both"/>
 
-</a> --> <p align="center"> <img height="50%" width="auto" src ="https://github-readme-stats-private.vercel.app/api?username=Amit-Bajracharya&show_icons=true&count_private=true&include_all_commits=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> <img height="50%" width="auto" src ="https://github-readme-stats-private.vercel.app/api/top-langs/?username=Amit-Bajracharya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex"> <img src ="https://streak-stats.demolab.com?user=Amit-Bajracharya&theme=darcula&hide_border=true&background=FFFFFF00"> <br> <br> </p>
+ <p align="center"> <img height="50%" width="auto" src ="https://github-readme-stats-private.vercel.app/api?username=Amit-Bajracharya&show_icons=true&count_private=true&include_all_commits=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> <img height="50%" width="auto" src ="https://github-readme-stats-private.vercel.app/api/top-langs/?username=Amit-Bajracharya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex"> <img src ="https://streak-stats.demolab.com?user=Amit-Bajracharya&theme=darcula&hide_border=true&background=FFFFFF00"> <br> <br> </p>
 
 
