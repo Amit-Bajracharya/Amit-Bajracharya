@@ -76,7 +76,7 @@
   <a href="https://github.com/Amit-Bajracharya/Vibe---Finder">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Vibe---Finder&theme=tokyonight&show_owner=true&border_radius=10" />
   </a>
-  <a href="https://github.com/Amit-Bajracharya/Assemble_X">
+  <a href="https://github.com/Amit-Bajracharya/Assemble_X-">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Assemble_X&theme=tokyonight&show_owner=true&border_radius=10" />
   </a>
   <a href="https://github.com/Amit-Bajracharya/Role-Based-Task-Management-System">
