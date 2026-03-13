@@ -20,15 +20,11 @@
     <td width="60%">
       <ul>
         <li>🔭 Currently building <b>Mitho Deals</b> – Nepal's food deals platform</li>
-        <li>🌱 Mastering <b>Advanced Flutter Full Stack</b></li>
+        <li>🌱 Mastering <b>Advanced Mobile Full Stack</b></li>
         <li>👯 Open for <b>freelance collaborations</b></li>
         <li>💡 Turning <b>caffeine into code</b> since 2024</li>
-      
       </ul>
-    </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF" />
-    </td>
+    
   </tr>
 </table>
 
