@@ -22,10 +22,17 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="28" /> &nbsp;Namaste, I'm Amit
 
-- 🔭 Currently building **Mitho Deals** – Nepal's food deals platform
-- 🌱 Mastering **Advanced Mobile Full Stack**
-- 👯 Open for **freelance collaborations**
-- 💡 Turning **caffeine into code** since 2024
+<br/>
+
+&nbsp;&nbsp;&nbsp; 🔭 &nbsp;Currently building **Mitho Deals** – Nepal's food deals platform
+
+&nbsp;&nbsp;&nbsp; 🌱 &nbsp;Mastering **Advanced Mobile Full Stack**
+
+&nbsp;&nbsp;&nbsp; 👯 &nbsp;Open for **freelance collaborations**
+
+&nbsp;&nbsp;&nbsp; 💡 &nbsp;Turning **caffeine into code** since 2024
+
+<br/>
 
 <br clear="right"/>
 
@@ -35,26 +42,47 @@
 
 <div align="center">
 
+<br/>
+
 **📱 Mobile Development**
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="48" alt="Flutter" title="Flutter" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=dart&theme=dark" height="48" alt="Dart" title="Dart" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="48" alt="Firebase" title="Firebase" /></a>
+
+<br/><br/>
 
 **⚙️ Backend & Database**
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="48" alt="Node.js" title="Node.js" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="48" alt="Express.js" title="Express.js" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48" alt="MongoDB" title="MongoDB" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" alt="MySQL" title="MySQL" /></a>
+
+<br/><br/>
 
 **🛠️ Tools & Workflow**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" alt="Git" title="Git" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" title="GitHub" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="48" alt="Postman" title="Postman" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="48" alt="VS Code" title="VS Code" /></a>
+
+<br/>
 
 </div>
 
