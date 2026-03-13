@@ -94,7 +94,7 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amit-Bajracharya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=1a1b27" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amit-Bajracharya&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=true&bg_color=1a1b27" />
 &nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Bajracharya&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true&bg_color=1a1b27" />
 
