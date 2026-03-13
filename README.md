@@ -1,48 +1,63 @@
-# Amit Muni Bajracharya  
-**Backend & Mobile Developer | Node.js | NestJS | Flutter | TypeScript | MongoDB | PostgreSQL | MySQL | Firebase | Docker**
+# 👋 Namaste! I'm Amit Muni Bajracharya
 
-Hi there 👋, I'm a college student with a passion for **coding and building applications**.  
+**Flutter & Node.js Developer** from Nepal 🇳🇵
 
-I love exploring **backend development**, **mobile app development**, and databases.  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80F0&center=true&vCenter=true&width=435&lines=Flutter+Developer;Node.js+Enthusiast;Firebase+Integrator;Open+for+Freelance+Work" alt="Typing SVG" />
+</div>
 
-Currently, I’m learning **advanced Node.js, NestJS, Flutter, and full-stack development** to create **clean, scalable, and efficient projects**.  
+## 🚀 About Me
 
-I enjoy solving problems, experimenting with new technologies, and turning ideas into real applications. Coding is not just my work—it’s my **passion and my way to build the future**.  
+I'm a passionate developer who loves building mobile apps with Flutter and powerful backends with Node.js. Currently exploring Clean Architecture and advanced state management.
 
-Checkout my portfolio: **[Portfolio link](https://amit-bajracharya.github.io/Amit-Portfolio/)**  
+- 🔭 I'm currently working on **Mitho Deals** – a food deals app for Nepal
+- 🌱 I'm learning **Advanced Flutter & NestJS**
+- 👯 I'm looking for **freelance opportunities** to build my portfolio
+- 💬 Ask me about **Flutter, Firebase, or Node.js**
+- 📫 Reach me: **[Your Email]**
+- ⚡ Goal: Building this profile to buy a **KTM 250 ADV** 🏍️
+
+## 🛠️ Tech Stack
+
+**Mobile:**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+
+**Backend:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+
+**Tools:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit-Bajracharya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Bajracharya&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 📌 Featured Projects
+
+### [Mitho Deals](https://github.com/Amit-Bajracharya/Mitho_deals)
+A food deals app for Nepal with Firebase authentication and real-time updates.
+
+### [Vibe Finder](https://github.com/Amit-Bajracharya/Vibe---Finder)
+Mood-based place recommendation app built with Flutter.
+
+### [Assemble_X](https://github.com/Amit-Bajracharya/Assemble_X)
+PC build mobile application with recommendation algorithms.
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](Your-Twitter-URL)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](Your-Portfolio-URL)
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge)](https://np.linkedin.com/in/amit-bajracharya-52b5b037b)
-[![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge)](https://github.com/amit-bajracharya)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge)](https://discordapp.com/users/570292509218177034)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge)](https://www.instagram.com/amitbajracharya_)
-[![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge)](https://www.facebook.com/amit.bajracharya)
-
----
-
-## 🛠️ Languages & Tools
-
-<img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
-<img align="left" alt="ExpressJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> 
-<img align="left" alt="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Flutter" width="30px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> 
-<img align="left" alt="Dart" width="30px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /> 
-<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
-<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
-<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
-<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-<br clear="both"/>
-
- <p align="center"> <img height="50%" width="auto" src ="https://github-readme-stats-private.vercel.app/api?username=Amit-Bajracharya&show_icons=true&count_private=true&include_all_commits=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> <img height="50%" width="auto" src ="https://github-readme-stats-private.vercel.app/api/top-langs/?username=Amit-Bajracharya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex"> <img src ="https://streak-stats.demolab.com?user=Amit-Bajracharya&theme=darcula&hide_border=true&background=FFFFFF00"> <br> <br> </p>
-
-
+⭐️ From [Amit Muni Bajracharya](https://github.com/Amit-Bajracharya)
