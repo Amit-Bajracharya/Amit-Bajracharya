@@ -165,11 +165,11 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://www.facebook.com/amit.vazzracharya">
-  <img src="https://skillicons.dev/icons?i=facebook&theme=dark" height="48" alt="Facebook" title="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="48" alt="Facebook" title="Facebook" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/amitbajracharya_">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48" alt="Instagram" title="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="48" alt="Instagram" title="Instagram" />
 </a>
 
 <br/>
