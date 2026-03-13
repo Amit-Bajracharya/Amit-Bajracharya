@@ -20,10 +20,10 @@
     <td width="60%">
       <ul>
         <li>🔭 Currently building <b>Mitho Deals</b> – Nepal's food deals platform</li>
-        <li>🌱 Mastering <b>Advanced Flutter & NestJS</b></li>
+        <li>🌱 Mastering <b>Advanced Flutter Full Stack</b></li>
         <li>👯 Open for <b>freelance collaborations</b></li>
         <li>💡 Turning <b>caffeine into code</b> since 2024</li>
-        <li>⚡ Mission: <b>KTM 250 ADV</b> through code 🏍️</li>
+      
       </ul>
     </td>
     <td width="40%">
