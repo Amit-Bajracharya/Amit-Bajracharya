@@ -92,17 +92,21 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Amit-Bajracharya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Bajracharya&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false" />
-
 <br/>
 
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-Bajracharya&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=2F80F0&point=f8d847&area=true&hide_border=true&radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amit-Bajracharya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=1a1b27" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Bajracharya&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true&bg_color=1a1b27" />
+
+<br/><br/>
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Bajracharya&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27" />
+
+<br/><br/>
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-Bajracharya&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=2F80F0&point=f8d847&area=true&hide_border=true&radius=12" />
 
 <br/>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Bajracharya&theme=tokyonight&hide_border=false&border_radius=12" />
 
 </div>
 
@@ -112,23 +116,27 @@
 
 <div align="center">
 
+<br/>
+
 <a href="https://github.com/Amit-Bajracharya/Mitho_deals">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Mitho_deals&theme=tokyonight&show_owner=true&border_radius=12" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Mitho_deals&theme=tokyonight&show_owner=true&border_radius=12&hide_border=true&bg_color=1a1b27" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Amit-Bajracharya/Vibe---Finder">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Vibe---Finder&theme=tokyonight&show_owner=true&border_radius=12" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Vibe---Finder&theme=tokyonight&show_owner=true&border_radius=12&hide_border=true&bg_color=1a1b27" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Amit-Bajracharya/Assemble_X-">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Assemble_X&theme=tokyonight&show_owner=true&border_radius=12" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Assemble_X&theme=tokyonight&show_owner=true&border_radius=12&hide_border=true&bg_color=1a1b27" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Amit-Bajracharya/Role-Based-Task-Management-System">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Role-Based-Task-Management-System&theme=tokyonight&show_owner=true&border_radius=12" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Role-Based-Task-Management-System&theme=tokyonight&show_owner=true&border_radius=12&hide_border=true&bg_color=1a1b27" />
 </a>
+
+<br/>
 
 </div>
 
@@ -138,10 +146,33 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-bajracharya-52b5b037b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitbajracharya4444@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amit-bajracharya.github.io/Amit-Portfolio/)
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c0bb842b7dc85b3e)
+<br/>
+
+<a href="https://www.linkedin.com/in/amit-bajracharya-52b5b037b/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" title="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:amitbajracharya4444@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Gmail" title="Gmail" />
+</a>
+&nbsp;&nbsp;
+<a href="https://amit-bajracharya.github.io/Amit-Portfolio/">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" alt="Portfolio" title="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.upwork.com/freelancers/~01c0bb842b7dc85b3e">
+  <img src="https://img.shields.io/badge/-Upwork-1a1b27?style=for-the-badge&logo=upwork&logoColor=6FDA44&labelColor=1a1b27" height="48" alt="Upwork" title="Upwork" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/amit.vazzracharya">
+  <img src="https://skillicons.dev/icons?i=facebook&theme=dark" height="48" alt="Facebook" title="Facebook" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/amitbajracharya_">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48" alt="Instagram" title="Instagram" />
+</a>
+
+<br/>
 
 </div>
 
