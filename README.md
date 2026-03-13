@@ -107,5 +107,5 @@
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
   
-  ![Snake animation](https://github.com/Amit-Bajracharya/Amit-Bajracharya/blob/output/github-contribution-grid-snake-dark.svg)
+  
 </div>
