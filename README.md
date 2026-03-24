@@ -146,11 +146,6 @@
 
 </div>
 
----
-
-
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80F0,50:1a2744,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%" />
 
