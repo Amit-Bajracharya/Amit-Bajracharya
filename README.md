@@ -114,31 +114,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="28" /> &nbsp;Featured Projects
 
-<div align="center">
 
-<br/>
-
-<a href="https://github.com/Amit-Bajracharya/Mitho_deals">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Mitho_deals&theme=tokyonight&show_owner=true&border_radius=12&hide_border=true&bg_color=1a1b27" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Amit-Bajracharya/Vibe---Finder">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Vibe---Finder&theme=tokyonight&show_owner=true&border_radius=12&hide_border=true&bg_color=1a1b27" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Amit-Bajracharya/Assemble_X-">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Assemble_X&theme=tokyonight&show_owner=true&border_radius=12&hide_border=true&bg_color=1a1b27" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Amit-Bajracharya/Role-Based-Task-Management-System">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Bajracharya&repo=Role-Based-Task-Management-System&theme=tokyonight&show_owner=true&border_radius=12&hide_border=true&bg_color=1a1b27" />
-</a>
-
-<br/>
-
-</div>
 
 ---
 
