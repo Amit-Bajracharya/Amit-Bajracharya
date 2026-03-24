@@ -110,13 +110,7 @@
 
 </div>
 
----
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="28" /> &nbsp;Featured Projects
-
-
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="28" /> &nbsp;Connect With Me
 
