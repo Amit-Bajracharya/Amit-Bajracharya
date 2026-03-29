@@ -45,7 +45,7 @@
 <br/>
 
 **📱 Mobile Development**
-**📱 Mobile Development**
+
 <br/>
 <a href="#"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="48" alt="Flutter" title="Flutter" /></a>
 &nbsp;&nbsp;
@@ -54,6 +54,8 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="48" alt="Firebase" title="Firebase" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="48" alt="Android Studio" title="Android Studio" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="48" alt="Supabase" title="Supabase" /></a>
 
 <br/><br/>
 
