@@ -57,9 +57,7 @@
 <br/><br/>
 
 **⚙️ Backend & Database**
-
 <br/>
-
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="48" alt="Node.js" title="Node.js" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="48" alt="Express.js" title="Express.js" /></a>
@@ -67,6 +65,8 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48" alt="MongoDB" title="MongoDB" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" alt="MySQL" title="MySQL" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="48" alt="Supabase" title="Supabase" /></a>
 
 <br/><br/>
 
