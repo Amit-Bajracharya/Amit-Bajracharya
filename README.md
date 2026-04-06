@@ -138,7 +138,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="48" alt="Instagram" title="Instagram" />
 </a>
 
-<br/>
+<br>
 
 </div>
 
